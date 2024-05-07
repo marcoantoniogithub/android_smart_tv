@@ -19,7 +19,7 @@ jobs:
         uses: ./gradlew build
 
       - name: Upload a Build Artifact
-        uses: actions/upload-artifact@v4.1.7
+        uses: actions/upload-artifact@v4.3.3
         with:
           name: android_smart_tv.apk
           path: app/build/outputs/apk/app-debug.apk
