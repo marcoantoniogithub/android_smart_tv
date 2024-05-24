@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android_smart_tv"
 include(":app")
+include(":settings")
