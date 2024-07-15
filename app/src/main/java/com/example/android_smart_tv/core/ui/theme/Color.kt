@@ -1,4 +1,4 @@
-package com.example.android_smart_tv.ui.theme
+package com.example.android_smart_tv.core.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
